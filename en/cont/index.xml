@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Host Hugo Website on Github on Documentation for Hugo Learn Theme</title>
+    <link>https://Erdan101.github.io/en/cont/</link>
+    <description>Recent content in Host Hugo Website on Github on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jun 2020 13:31:12 +0100</lastBuildDate><atom:link href="https://Erdan101.github.io/en/cont/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create Github Repository</title>
+      <link>https://Erdan101.github.io/en/cont/repo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Erdan101.github.io/en/cont/repo/</guid>
+      <description>Create a repository on Github to store your Hugo website files.
+Sign in to Github   Sign up for a GitHub account.
+If you already have a Github account, just skip this step.
+  Sign in to Github with your uername and password.
+  Create a Repository  Click on New repository on the right of the page. Input Erdan101.github.io under Repository name.  You must use a &amp;lt;USERNAME&amp;gt;.</description>
+    </item>
+    
+    <item>
+      <title>Deloy the Website</title>
+      <link>https://Erdan101.github.io/en/cont/push/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://Erdan101.github.io/en/cont/push/</guid>
+      <description>Rebuild Your Site Push files to Github Access Your Website </description>
+    </item>
+    
+    <item>
+      <title>Code highlighting</title>
+      <link>https://Erdan101.github.io/en/cont/syntaxhighlight/</link>
+      <pubDate>Mon, 01 Jun 2020 13:31:12 +0100</pubDate>
+      
+      <guid>https://Erdan101.github.io/en/cont/syntaxhighlight/</guid>
+      <description>Learn theme uses highlight.js to provide code syntax highlighting.
+Markdown syntax Wrap the code block with three backticks and the name of the language. Highlight will try to auto detect the language if one is not provided.
+```json [ { &amp;#34;title&amp;#34;: &amp;#34;apples&amp;#34;, &amp;#34;count&amp;#34;: [12000, 20000], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} }, { &amp;#34;title&amp;#34;: &amp;#34;oranges&amp;#34;, &amp;#34;count&amp;#34;: [17500, null], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;...&amp;#34;, &amp;#34;sensitive&amp;#34;: false} } ] ``` Renders to:
+[ { &amp;#34;title&amp;#34;: &amp;#34;apples&amp;#34;, &amp;#34;count&amp;#34;: [12000, 20000], &amp;#34;description&amp;#34;: {&amp;#34;text&amp;#34;: &amp;#34;.</description>
+    </item>
+    
+    <item>
+      <title>Icons and logos</title>
+      <link>https://Erdan101.github.io/en/cont/icons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Erdan101.github.io/en/cont/icons/</guid>
+      <description>The Learn theme for Hugo loads the Font Awesome library, allowing you to easily display any icon or logo available in the Font Awesome free collection.
+Finding an icon Browse through the available icons in the Font Awesome Gallery. Notice that the free filter is enabled, as only the free icons are available by default.
+Once on the Font Awesome page for a specific icon, for example the page for the heart, copy the HTML reference and paste into the markdown content.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+[
+{
+	"uri": "https://Erdan101.github.io/zh/basics/",
+	"title": "构建Hugo网站",
+	"tags": [],
+	"description": "",
+	"content": "章节 1 构建Hugo网站 安装Hugo 本文以Window 10为例进行介绍，在Linux、macOS等其他平台安装Hugo，请参考官网文档安装Hugo。\n  本文以Window 10为例进行介绍，在Linux、macOS等其他平台安装Hugo，请参考官网文档安装Hugo。\n 准备工作 在本地新建一个目录，用于存放Hugo的解压文件以及站点文件。\n 从Hugo的发布网站下载最新的发布版本。 根据电脑系统类型选择对应版本，此处我的电脑是64位。 将下载好的压缩包解压到  "
+},
+{
+	"uri": "https://Erdan101.github.io/zh/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://Erdan101.github.io/zh/",
+	"title": "Hugo 主题的 Learn 文档",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://Erdan101.github.io/zh/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
