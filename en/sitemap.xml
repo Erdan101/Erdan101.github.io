@@ -19,20 +19,14 @@
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
     <loc>https://Erdan101.github.io/en/cont/</loc>
-    <lastmod>2020-06-01T13:31:12+01:00</lastmod>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
     <loc>https://Erdan101.github.io/en/cont/repo/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
     <loc>https://Erdan101.github.io/en/cont/push/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
     <loc>https://Erdan101.github.io/en/basics/installation/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/cont/syntaxhighlight/</loc>
-    <lastmod>2020-06-01T13:31:12+01:00</lastmod>
   </url><url>
     <loc>https://Erdan101.github.io/en/basics/configuration/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
@@ -40,13 +34,8 @@
     <loc>https://Erdan101.github.io/en/basics/style-customization/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>https://Erdan101.github.io/en/cont/icons/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/cont/i18n/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url><url>
     <loc>https://Erdan101.github.io/en/</loc>
-    <lastmod>2020-06-01T13:31:12+01:00</lastmod>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -57,14 +46,6 @@
                 hreflang="en"
                 href="https://Erdan101.github.io/en/"
                 />
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/attachments/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/attachments.fr/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/button/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/button.fr/</loc>
   </url><url>
     <loc>https://Erdan101.github.io/en/categories/</loc>
     <xhtml:link
@@ -78,55 +59,11 @@
                 href="https://Erdan101.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/</loc>
-  </url><url>
     <loc>https://Erdan101.github.io/en/credits/</loc>
   </url><url>
     <loc>https://Erdan101.github.io/en/credits.fr/</loc>
   </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/expand/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/expand.fr/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/mermaid/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/mermaid.fr/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/notice/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/notice.fr/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/children-1/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/children-1/children-1-1/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/children-2/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/children-3/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/children-4/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/test/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/test.fr/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/children-2/test3/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/children/children-2/test3.fr/</loc>
-  </url><url>
     <loc>https://Erdan101.github.io/en/showcase/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/siteparam/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/siteparam.fr/</loc>
-  </url><url>
-    <loc>https://Erdan101.github.io/en/shortcodes/tabs/</loc>
   </url><url>
     <loc>https://Erdan101.github.io/en/tags/</loc>
     <xhtml:link
