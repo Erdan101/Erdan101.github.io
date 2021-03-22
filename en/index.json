@@ -18,7 +18,7 @@
 	"title": "Host Website on Github",
 	"tags": [],
 	"description": "",
-	"content": "Host Website on Github Table of Contents  Install Git   Create Github Repository   Deloy the Website   "
+	"content": "Host Website on Github Table of Contents  Install Git   Create Github Repository   Deploy the Website   "
 },
 {
 	"uri": "https://Erdan101.github.io/en/cont/repo/",
@@ -29,7 +29,7 @@
 },
 {
 	"uri": "https://Erdan101.github.io/en/cont/push/",
-	"title": "Deloy the Website",
+	"title": "Deploy the Website",
 	"tags": [],
 	"description": "",
 	"content": "Rebuild the Site Run hugo to rebuild your site.\nF:\\Hugo\\Sites\\mysite\u0026gt; hugo Start building sites … | EN | ZH -------------------+----+----- Pages | 84 | 10 Paginator pages | 0 | 0 Non-page files | 21 | 0 Static files | 84 | 84 Processed images | 0 | 0 Aliases | 1 | 0 Sitemaps | 2 | 1 Cleaned | 0 | 0 Total in 590 ms The public/ directory will be generated right away.\nHost on Github   Double-click on Git Bash icon to open it.\n  Run the following command to add and push the website code on the Github repository.\n$ cd F:Hugo/Sites/mysite/public $ git init $ git remote add origin https://github.com/Erdan101/Erdan101.github.io/ $ git add . $ git commit -m \u0026quot;first commit\u0026quot; $ git push -f origin master:main   Access the Website The final step!\nInput the Erdan101.github.io in the browser\u0026rsquo;s address bar and press Enter to visit the website.\nAmazing! It works!\n"
